@@ -1,0 +1,3 @@
+Height of tree 1: 14
+Inorder traversal of Tree 1: Height of tree 2: 5
+Inorder traversal of Tree 2: 

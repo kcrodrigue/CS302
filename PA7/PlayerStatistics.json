@@ -1,0 +1,77 @@
+[{
+	"Player Name": "Me",
+	"Overview": {
+		"Games Won": 0,
+		"Win Rate": 0,
+		"Games Played": 0,
+		"Fastest Win": 0,
+		"Fewest Moves": 0,
+		"Top Score": 0
+	},
+	"Suits": [{
+			"Type": "One Suit",
+			"Games Won": 0,
+			"Win Rate": 2,
+			"Games Played": 4,
+			"Fastest Win": 0,
+			"Fewest Moves": 3,
+			"Top Score": 0
+		},
+		{
+			"Type": "Two Suits",
+			"Games Won": 0,
+			"Win Rate": 0,
+			"Games Played": 0,
+			"Fastest Win": 0,
+			"Fewest Moves": 0,
+			"Top Score": 0
+		},
+		{
+			"Type": "Four Suits",
+			"Games Won": 0,
+			"Win Rate": 0,
+			"Games Played": 0,
+			"Fastest Win": 0,
+			"Fewest Moves": 0,
+			"Top Score": 0
+		}
+	]
+}, {
+	"Player Name": "You",
+	"Overview": {
+		"Games Won": 0,
+		"Win Rate": 0,
+		"Games Played": 0,
+		"Fastest Win": 0,
+		"Fewest Moves": 0,
+		"Top Score": 0
+	},
+	"Suits": [{
+			"Type": "One Suit",
+			"Games Won": 0,
+			"Win Rate": 0,
+			"Games Played": 0,
+			"Fastest Win": 0,
+			"Fewest Moves": 0,
+			"Top Score": 0
+		},
+		{
+			"Type": "Two Suits",
+			"Games Won": 0,
+			"Win Rate": 0,
+			"Games Played": 0,
+			"Fastest Win": 0,
+			"Fewest Moves": 0,
+			"Top Score": 0
+		},
+		{
+			"Type": "Four Suits",
+			"Games Won": 0,
+			"Win Rate": 0,
+			"Games Played": 0,
+			"Fastest Win": 0,
+			"Fewest Moves": 0,
+			"Top Score": 0
+		}
+	]
+}]
